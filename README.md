@@ -2,6 +2,7 @@
 Some people call me **Trixie**.  
 
 I'm a **Software Developer** currently employed at **Diavox Network Inc.**, a company that develops and distributes **voice processing products** such as IVR systems, hospitality applications, voice messaging, and other apps.
+
 I have professionally contributed to building **real-time applications, queuing systems, telephony platforms, reporting systems, AI-integrated APIs, RESTful APIs, and more**.  
 
 This is my **personal GitHub account** — for work-related projects, [my work GitHub](https://github.com/dvxgit-tbautista).  
